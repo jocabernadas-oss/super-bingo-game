@@ -1,0 +1,5 @@
+# Python dependencies for Super Bingo Game
+
+flask==2.0.1
+numpy==1.21.0
+pygame==2.0.1
